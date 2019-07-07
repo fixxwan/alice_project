@@ -1,0 +1,5 @@
+print("hello world")
+print (hello python)
+print ("hello linux")
+print ("hello nginx")
+print ("add hello redis")
